@@ -17,15 +17,15 @@ if(isset($_POST['forma'])){
 
 <method="POST" action="">
 
-    <input type="text" name="nom" placeholder="Nom" id="nom" />
-    <input type="text" name="prenom" placeholder="Prénom" id="prenom" />
-
-    <input type="radio" name="sexe" id="radio0">Masculin
-    <input type="radio" name="sexe" id="radio1">Féminin
-
-    <input type="text" name="couleur" id="couleur" />
-
-    <input type="submit" name="submit" id="forma" value="Envoyer" />
+    <input type="text" name="nom" placeholder="Nom" id="nom" /><br>
+    <input type="text" name="prenom" placeholder="Prénom" id="prenom" /><br>
+    <br>
+    <input type="radio" name="sexe" id="radio0">Masculin<br>
+    <input type="radio" name="sexe" id="radio1">Féminin<br>
+    <br>
+    <input type="text" name="couleur" id="couleur" /><br>
+<br>
+    <input type="submit" name="submit" id="forma" value="Envoyer" /><br>
     <input type="reset" name="reset" value="Reset" />
 </form>
 
