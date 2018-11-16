@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>td1</title>
+</head>
+<body>
+    <h1>Gros titre</h1>
+    <h3>Titre un peu moins important</h3>
+<br>
+<ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+</ul>
+<img src="https://cir64.fr/beer.png" >
+</body>
+</html>
